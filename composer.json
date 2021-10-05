@@ -1,6 +1,6 @@
 {
-  "name": "magium/active-directory",
-  "description": "Provides connectivity to Active Directory implementations",
+  "name": "beedooedtech/active-directory",
+  "description": "Provides connectivity to Active Directory implementations. Created by Magium http://www.magiumlib.com/",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
   "authors": [
